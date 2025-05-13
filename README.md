@@ -41,9 +41,6 @@ The [MNIST dataset](http://yann.lecun.com/exdb/mnist/) is a classic benchmark in
 - Grayscale format, size: 28x28 pixels
 - Labels: Digits from 0 to 9
 
-It comes preloaded with TensorFlow:
-```python
-from tensorflow.keras.datasets import mnist
 
 Sample MNIST:
 
